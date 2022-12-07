@@ -2,7 +2,7 @@
 A Selenium-coded crawler that scrapes real estate ads from www.superimmo.com, a real estate website in France, to analyze the features of home properties and predict the next property price per sqm in different districts of Ile-de-France region. 
 
 ## Description
-The project intends to show how web-scraping data from a live website can help real estate investors to stay on top of market changes and evolution. Moreover, the data scraped is fit continuously to a machine learning model that predicts the adjusted price of a real estate property based on its continuous learning from web-scraped data. The next milestone of this project is to package all the benefits that this code present (in addition to extended code) into a software-as-a-service solution intended to offer a one-stop shop for real estate investors to be in control of their business decisions in real-time.
+The project intends to show how ethical web-scraping data from a live website can help real estate investors to stay on top of market changes and evolution. Moreover, the data scraped is fit continuously to a machine learning model that predicts the adjusted price of a real estate property based on its continuous learning from web-scraped data. The next milestone of this project is to package all the benefits that this code present (in addition to extended code) into a software-as-a-service solution intended to offer a one-stop shop for real estate investors to be in control of their business decisions in real-time.
 
 ## Getting Started
 
